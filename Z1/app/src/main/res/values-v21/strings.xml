@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Application</string>
+    <string name="ADD">ADD</string>
+    <string name="EXIT">EXIT</string>
+    <string name="NAMELASTNAME">NAME LAST-NAME</string>
+    <string name="SAMPLE">SAMPLE TEXT</string>
+    <string name="BACK">BACK</string>
+
+    <array name="DennisRitchie">
+        <item>Im not a person who particularly had heros when growing up</item>
+        <item>I fix things now and then, more often tweak HTML and make scripts to do things</item>
+        <item>Over the past several years, Ive been more in a managerial role</item>
+    </array>
+
+    <array name="MarkZ">
+        <item>The thing that we are trying to do at facebook is just help people connect and communicate more efficiently</item>
+        <item>We are running the company to serve more people</item>
+        <item>The question isnt What do we want to know about people, Its, What do people want to tell about themselves</item>
+    </array>
+
+    <array name="Law">
+        <item>It’s Microsoft versus mankind, with Microsoft having only a slight lead</item>
+        <item>If an innovative piece of software comes along, Microsoft copies it and makes it part of Windows. This is not innovation; this is the end of innovation</item>
+        <item>Sometimes there is no happy choice, only one less griveous than the others</item>
+    </array>
+
+    <string name="nameDENIS">Dennis Ritchier</string>
+</resources>
